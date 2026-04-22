@@ -25,7 +25,7 @@ def tampilkan_denah(data):
 while True:
     tampilkan_denah(list_kursi)
     print("\nMenu:")
-    print("1. Booking Kursi")
+    print("\n1. Booking Kursi")
     print("2. Keluar")
     
     pilihan = input("\nPilih menu (1/2): ")
