@@ -102,3 +102,5 @@ Merupakan loop untuk menampilkan pilihan menu Booking dan Keluar
   51. Mengambil kondisi terakhir jika input selain 1 dan 2
   
   52. Menampilkan "Pilihan tidak valid." ke terminal
+
+<img width="264" height="479" alt="Screenshot 2026-04-22 193427" src="https://github.com/user-attachments/assets/3b57c598-b888-4267-9726-3c87350ca76f" />
