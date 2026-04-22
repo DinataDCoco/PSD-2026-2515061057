@@ -6,10 +6,14 @@ Proyek ini merupakan sebuah sistem yang digunakan untuk mempermudah pelanggan da
 
 <img width="408,5" height="567" alt="code" src="https://github.com/user-attachments/assets/603fa905-51d6-4ec5-9cce-4ca9500fd8fd" />
 
+
 Baris 2 - 6 
+
 Merupakan list 2D berukuran 3 X 5 yang digunakan untuk menyimpan data dan merepresentasikan kursi bioskop
 
+
 Baris 8 - 22
+
 Merupakan fungsi untuk menampilkan denah kursi bioskop
 
   8. deklarasi variabel fungsi dan input yang digunakan
@@ -42,7 +46,9 @@ Merupakan fungsi untuk menampilkan denah kursi bioskop
   
   22. Menambah nilai pada variabel a dengan angka 1 untuk setiap perulangan
 
+
 Baris 25 - 52
+
 Merupakan loop untuk menampilkan pilihan menu Booking dan Keluar
   
   25. kondisi perulangan selama True
