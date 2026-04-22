@@ -4,6 +4,8 @@ Judul Proyek : Sistem Booking Kursi Bioskop
 
 Proyek ini merupakan sebuah sistem yang digunakan untuk mempermudah pelanggan dalam memesan kursi di bioskop. sistem booking ini menggunakan konsep list 2D pada python dimana kursi dibuat di dalam list 3 X 5, setiap data di dalam list merepresentasikan sebuah kursi di bioskop. di dalam sistem ini terdapat 2 menu yang bisa diakses oleh pelanggan yaitu menu booking kursi dan keluar. ketika pelanggan memilih menu booking kursi maka pertama-tama sistem akan menunjukkan denah kursi bioskop yang ada, kemudian pelanggan diminta untuk memilih kursi mana yang akan di booking dengan meminta input baris dan kolom. setelah pelanggan memilih kursi, sistem akan memberi pesan bahwa kursi berhasil di booking dan kemudian mengembalikan tampilan pilihan menu, jika pelanggan memilih menu keluar maka sistem akan selesai beroprasi.
 
+Source Code :
+
 <img width="408,5" height="567" alt="code" src="https://github.com/user-attachments/assets/603fa905-51d6-4ec5-9cce-4ca9500fd8fd" />
 
 
@@ -102,5 +104,7 @@ Merupakan loop untuk menampilkan pilihan menu Booking dan Keluar
   51. Mengambil kondisi terakhir jika input selain 1 dan 2
   
   52. Menampilkan "Pilihan tidak valid." ke terminal
+
+Hasil : 
 
 <img width="264" height="479" alt="Screenshot 2026-04-22 193427" src="https://github.com/user-attachments/assets/3b57c598-b888-4267-9726-3c87350ca76f" />
