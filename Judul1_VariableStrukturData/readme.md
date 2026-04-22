@@ -8,12 +8,9 @@ Proyek ini merupakan sebuah sistem yang digunakan untuk mempermudah pelanggan da
 
 
 Baris 2 - 6 
-
 Merupakan list 2D berukuran 3 X 5 yang digunakan untuk menyimpan data dan merepresentasikan kursi bioskop
 
-
 Baris 8 - 22
-
 Merupakan fungsi untuk menampilkan denah kursi bioskop
 
   8. deklarasi variabel fungsi dan input yang digunakan
@@ -48,7 +45,6 @@ Merupakan fungsi untuk menampilkan denah kursi bioskop
 
 
 Baris 25 - 52
-
 Merupakan loop untuk menampilkan pilihan menu Booking dan Keluar
   
   25. kondisi perulangan selama True
