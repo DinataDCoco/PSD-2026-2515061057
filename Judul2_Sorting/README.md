@@ -23,6 +23,7 @@ Baris 1 - 11 merupakan fungsi bubble sort
 10. menyelesaikan loop
 11. mengembalikan parameter data
 
+
 13. deklarasi variabel list untuk menyimpan nilai ujian
 15. deklarasi variabel o untuk meminta input jumlah mahasiswa
 16. looping for dengan mengambil nilai range o
@@ -31,3 +32,11 @@ Baris 1 - 11 merupakan fungsi bubble sort
 20. print nilai list sebelum di urutkan ke terminal
 22. deklarasi variabel untuk memanggil fungsi bubble_sort dengan parameter list
 24. print nilai list yang sudah diurutkan ke terminal
+
+Hasil :
+
+<img width="455" height="173" alt="ss2" src="https://github.com/user-attachments/assets/18bfc8a3-0b8a-4ec6-b2a2-dd3ea63751ab" />
+
+Link Youtube :
+
+
