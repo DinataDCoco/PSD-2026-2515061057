@@ -12,59 +12,60 @@ Penjelasan :
 
 Line 1 - 5 : fungsi sequential search
 
-1 : deklarasi fungsi sequential search untuk mencari nomor telepon dengan mengambil parameter buku_telepon dan nama_target
-2 : kondisi loop for kontak di variabel buku_telepon
-3 : mengambil kondisi jika input nama_target ada di dictionary dengan key 'nama'
-4 : mengembalikan nomor hp
-5 : mengembalikan none jika kondisi tidak terpenuhi
+1. deklarasi fungsi sequential search untuk mencari nomor telepon dengan mengambil parameter buku_telepon dan nama_target
+2. kondisi loop for kontak di variabel buku_telepon
+3. mengambil kondisi jika input nama_target ada di dictionary dengan key 'nama'
+4. mengembalikan nomor hp
+5. mengembalikan none jika kondisi tidak terpenuhi
 
 line 7 - 12 : dictionary untuk menyimpan daftar kontak hp
 
-7 : deklarasi variabel buku_telepon
-8 : data dalam dictionary
-9 : data dalam dictionary
-10 : data dalam dictionary
-11 : data dalam dictionary
-12 : tutup kurung
+7. deklarasi variabel buku_telepon
+8. data dalam dictionary
+9. data dalam dictionary
+10. data dalam dictionary
+11. data dalam dictionary
+12. tutup kurung
 
 Line 14 - 27 : Fungsi cek kontak dan tambah kontak
 
-14 : deklarasi fungsi tambah_kontak dengan mengambil parameter buku_telepon, nama_baru, nomor_baru
-15 : deklarasi variabel untuk_cek dengan mengambil input dari variabel nama_baru
-16 : memgambil loop for kontak di buku_telepon
-17 : mengambil kondisi jika vairabel unutk_cek sudah ada di kontak
-18 : menampilkan "Gagal! Nama '{nama_baru}' sudah ada di buku telepon." ke terminal
-19 : mengembalikan false
-21 : deklarasi variabel kontak_baru
-22 : isi dictionary
-23 : isi dictionary
-25 : memasukkan data pada kontak_baru ke buku_telepon
-26 : menampilkan "Berhasil! Kontak '{nama_baru}' telah ditambahkan." ke teminal
-27 : kembalikan true
+14. deklarasi fungsi tambah_kontak dengan mengambil parameter buku_telepon, nama_baru, nomor_baru
+15. deklarasi variabel untuk_cek dengan mengambil input dari variabel nama_baru
+16. memgambil loop for kontak di buku_telepon
+17. mengambil kondisi jika vairabel unutk_cek sudah ada di kontak
+18. menampilkan "Gagal! Nama '{nama_baru}' sudah ada di buku telepon." ke terminal
+19. mengembalikan false
+21. deklarasi variabel kontak_baru
+22. isi dictionary
+23. isi dictionary
+25. memasukkan data pada kontak_baru ke buku_telepon
+26. menampilkan "Berhasil! Kontak '{nama_baru}' telah ditambahkan." ke teminal
+27. kembalikan true
 
 Line 29 - 35 : Mencari nomor di dictionary
 
-29 : deklarasi variabel nama_dicari untuk meminta input nama yang ingin dicari
-30 : deklarasi variabel hasil yang mengambil fungsi cari_nomor_telepon
-32 : mengambil kondisi jika hasil
-33 : tampilkan nomor telepon yang dicari
-34 : kondisi else
-35 : menampilkan pemberitahuan nomor telepon yang dicari tidak tersedia
+29. deklarasi variabel nama_dicari untuk meminta input nama yang ingin dicari
+30. deklarasi variabel hasil yang mengambil fungsi cari_nomor_telepon
+32. mengambil kondisi jika hasil
+33. tampilkan nomor telepon yang dicari
+34. kondisi else
+35. menampilkan pemberitahuan nomor telepon yang dicari tidak tersedia
 
 line 37 - 49 : Menambah nomor baru
 
-37 : deklarasi vairabel Masukkan_nomor_baru untuk meminta input string
-39 : kondisi jika input adalah "y"
-40 : minta input nama
-41 : minta input nomor
-43 : panggil fungsi tambah_kontak
-45 : tampilkan "daftar kontak sekarang" ke terminal
-46 : kondisi for k di buku_telepon
-47 : tampilkan nama dan nomor
-48 : kondisi jika input adalah "n"
-49 : tampilkan "Selesai."
+37. deklarasi vairabel Masukkan_nomor_baru untuk meminta input string
+39. kondisi jika input adalah "y"
+40. minta input nama
+41. minta input nomor
+43. panggil fungsi tambah_kontak
+45. tampilkan "daftar kontak sekarang" ke terminal
+46. kondisi for k di buku_telepon
+47. tampilkan nama dan nomor
+48. kondisi jika input adalah "n"
+49. tampilkan "Selesai."
 
 Output : 
 
 <img width="324" height="226" alt="ss3" src="https://github.com/user-attachments/assets/b8d92d3c-593a-47cc-be8f-27827dead127" />
 
+Youtube :
