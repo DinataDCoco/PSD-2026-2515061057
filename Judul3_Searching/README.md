@@ -63,4 +63,8 @@ line 37 - 49 : Menambah nomor baru
 47. tampilkan nama dan nomor
 48. kondisi jika input adalah "n"
 49. tampilkan "Selesai."
-50. 
+
+Output : 
+
+<img width="324" height="226" alt="ss3" src="https://github.com/user-attachments/assets/b8d92d3c-593a-47cc-be8f-27827dead127" />
+
