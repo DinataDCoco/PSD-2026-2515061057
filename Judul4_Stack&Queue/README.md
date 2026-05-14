@@ -1,1 +1,5 @@
+Tugas Akhir Percobaan 4 : Stack & Queue
 
+Judul Proyek : Sistem Antrian Minimarket
+
+Proyek ini merupakan sebuah sistem sederhana yang berfungsi untuk menambah antrian, melayani antrian, dan melihat jumlah antiran saat ini. Sistem ini mengimplementasikan Queue dan Array dalam algoritma-nya, penggunaan Queue sangat cocok untuk sistem antrian ini karna algoritma dari Queue yang sesuai seperti antrian. sistem akan meminta input berupa angka untuk memilih diantara 4 menu yang tersedia yaitu menu "Tambah Pelanggan" untuk menambah pelanggan, menu "Layani Pelanggan" untuk melayani dan menghapus pelanggan dari antrian, menu "Lihat Antrian" untuk melihat posisi antrian saat ini, dan menu "Keluar" untuk keluar dari sistem. pada menu "Tambah Pelanggan" sistem akan meminta input nama pelanggan berupa string kemudian memasukkannya ke dalam array, pada menu "Layani Pelanggan" sistem akan melakukan pop pada array paling depan atau index ke 0, pada menu "Lihat Antrian" sistem akan menampilkan elemen yang disimpan dalam array saat ini, kemudian pada menu "keluar" sistem akan menyelesaikan loop.
