@@ -6,7 +6,7 @@ Proyek ini merupakan sebuah sistem sederhana yang berfungsi untuk menambah antri
 
 Source Code : 
 
-<img width="1464" height="2420" alt="code4" src="https://github.com/user-attachments/assets/5baec25e-017a-4ad8-bcd6-d737e5399941" />
+<img width="732" height="1210" alt="code4" src="https://github.com/user-attachments/assets/5baec25e-017a-4ad8-bcd6-d737e5399941" />
 
 Penjelasan :
 
