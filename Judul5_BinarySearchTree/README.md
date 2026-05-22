@@ -42,3 +42,21 @@ baris 54: fungsi memeriksa node kanan
 baris 56-57: membuat variabel toko yang memanggil fungsi InventarisTokoBST dan membuat variabel pilih sebagai input yang menentukan menu mana yang akan diakses user.
 baris 59: mengambil kondisi selama input tidak sama dengan "4".
 baris 60-65: menampilkan menu inventaris toko yang berjumlah 4 menu kemudian meminta input dari user untuk memeilih menu.
+baris 57-72: mengambil kondisi jika input "1" maka sistem akan meminta input data produk dari user
+baris 74: memanggil fungsi tambah_produk untuk menambahkan data yang diinputkan user ke tree.
+baris 76-81: mengambil kondisi jika input "2" maka sistem akan mengecek terlebih dahulu jika root kosong maka akan menampilkan pesan gagal, namun jika ada maka akan memanggil fungsi tampilkan_stok_urut
+Baris 83-84: mengambil kondisi jika input "3" kemudian menampilkan keterangan menu pencarian produk
+baris 85-86: mengambil kondisi jika root kosong maka tampilkan pesan gagal
+baris 87-89: mengambil kondisi jika root terisi maka siste makan meminta input id yang ingin dicari kemudian memanggil fungsi cari_produk.
+baris 90-94: jika barang ditemukan maka akan menampilkan data barang tersebut
+baris 95-96: mengambil kondisi jika produk tidak ada maka menampilkan pesan produk tidak ditemukan
+baris 98-99: mengambil kondisi jiak pilihan "4" maka tampilkan pesan aplikasi ditutup
+baris 101-102: mengambil kondisi lain jika input selain itu maka menampilkan pesan menu tidak tersedia.
+
+Output: 
+
+<img width="488" height="572" alt="output5 1" src="https://github.com/user-attachments/assets/8c312903-8243-4e25-b585-1685ab3197a6" />
+<img width="288" height="229" alt="output5 2" src="https://github.com/user-attachments/assets/f5d75146-2ce0-4c4a-8e35-6163677c3363" />
+
+Youtube:
+
