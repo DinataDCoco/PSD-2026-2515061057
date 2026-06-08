@@ -43,5 +43,4 @@
 43. Baris 84: Mengulang fungsi main() dan menghentikan loop saat ini.
 44. Baris 86-87: Kondisi jika input adalah "6", perulangan langsung dihentikan dan aplikasi ditutup.
 45. Baris 88-91: Kondisi terakhir jika input selain angka 1-6, sistem menampilkan pesan "input salah!", lalu memanggil kembali fungsi main().
-
-Baris 92: Memanggil fungsi main() di baris paling luar sebagai tombol utama untuk menyalakan program pertama kali.
+46. Baris 92: Memanggil fungsi main() di baris paling luar sebagai tombol utama untuk menyalakan program pertama kali.
