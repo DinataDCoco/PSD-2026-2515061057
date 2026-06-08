@@ -62,13 +62,13 @@ Output :
 <img width="152" height="141" alt="image" src="https://github.com/user-attachments/assets/338c008d-ee7b-4d0d-86a6-d3a2d66f3c86" />
 <br>
 <img width="282" height="90" alt="image" src="https://github.com/user-attachments/assets/82162717-3e1e-42d9-af97-972ea4886f59" />
-
+<br>
 <img width="249" height="55" alt="image" src="https://github.com/user-attachments/assets/ce7792e5-3f7a-4330-a73a-88fb47d3c53b" />
-
+<br>
 <img width="227" height="76" alt="image" src="https://github.com/user-attachments/assets/0207d596-58e1-435d-9502-5f59b26658f6" />
-
+<br>
 <img width="219" height="54" alt="image" src="https://github.com/user-attachments/assets/0eab98d1-4372-4b95-8416-5dabf07aefba" />
-
+<br>
 <img width="221" height="90" alt="image" src="https://github.com/user-attachments/assets/4a24ee50-8020-4fd7-bd4d-9edf18fcdd26" />
 
 
