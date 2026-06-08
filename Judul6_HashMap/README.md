@@ -60,7 +60,7 @@ Penjelasan :
 Output :
 
 <img width="152" height="141" alt="image" src="https://github.com/user-attachments/assets/338c008d-ee7b-4d0d-86a6-d3a2d66f3c86" />
-
+<br>
 <img width="282" height="90" alt="image" src="https://github.com/user-attachments/assets/82162717-3e1e-42d9-af97-972ea4886f59" />
 
 <img width="249" height="55" alt="image" src="https://github.com/user-attachments/assets/ce7792e5-3f7a-4330-a73a-88fb47d3c53b" />
