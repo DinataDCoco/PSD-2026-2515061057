@@ -1,3 +1,15 @@
+Tugas Akhir Judul 6 : Hash Map
+
+Judul Proyek : Menu Inventaris Toko
+
+Sistem yang dibuat ini adalah Sistem Manajemen Inventaris Toko berbasis teks (Command Line Interface) yang dirancang untuk mengelola pencatatan stok barang secara digital dan terstruktur. Inti dari sistem ini mengimplementasikan konsep Hash Map dunia nyata menggunakan struktur data Dictionary bawaan Python. Dalam penerapannya, sistem menggunakan ID atau Kode Barang sebagai Key (kunci unik) yang terhubung langsung dengan Value (nilai) berupa detail nama dan jumlah stok barang. Model hubungan key-value ini memastikan tidak akan ada duplikasi data untuk kode barang yang sama di dalam toko.
+
+Source Code : 
+
+<img width="1942" height="3826" alt="code6" src="https://github.com/user-attachments/assets/59b19d46-00ff-44c9-8cc6-4dc32b44daee" />
+
+Penjelasan : 
+
 1. Baris 1: Membuat class InventarisToko sebagai cetak biru untuk membungkus semua fungsi logika toko.
 2. Baris 2: Fungsi constructor untuk inisialisasi awal saat objek toko dibuat.
 3. Baris 3: Menyiapkan dictionary kosong bernama data_barang. Di sinilah konsep Hash Map bekerja menggunakan pasangan Key dan Value.
@@ -44,3 +56,8 @@
 44. Baris 86-87: Kondisi jika input adalah "6", perulangan langsung dihentikan dan aplikasi ditutup.
 45. Baris 88-91: Kondisi terakhir jika input selain angka 1-6, sistem menampilkan pesan "input salah!", lalu memanggil kembali fungsi main().
 46. Baris 92: Memanggil fungsi main() di baris paling luar sebagai tombol utama untuk menyalakan program pertama kali.
+
+Output :
+
+<img width="152" height="141" alt="image" src="https://github.com/user-attachments/assets/338c008d-ee7b-4d0d-86a6-d3a2d66f3c86" />
+
